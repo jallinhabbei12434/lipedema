@@ -1,0 +1,288 @@
+Uri: https://drapaulafrederichi.com.br/comments/feed/
+File Name: E:\Clones\drapaulafrederichi.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://drapaulafrederichi.com.br/feed/
+File Name: E:\Clones\drapaulafrederichi.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://drapaulafrederichi.com.br/workshop-lipedema/
+File Name: E:\Clones\drapaulafrederichi.com.br\workshop-lipedema\index.htm
+Content Type: text/html
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\cookie-law-info\legacy\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.svg
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff
+Content Type: font/woff
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/huge-icons/huge-icons.woff2
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\happy-elementor-addons\assets\fonts\huge-icons\huge-icons.woff2
+Content Type: font/woff2
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\plugins\wp-rocket\assets\js\lazyload\17.8.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2024/07/cropped-Favicon-180x180.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2024\07\cropped-Favicon-180x180.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2024/07/cropped-Favicon-192x192.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2024\07\cropped-Favicon-192x192.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2024/07/cropped-Favicon-32x32.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2024\07\cropped-Favicon-32x32.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Bio-dra.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Bio-dra.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Bio.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Bio.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Formas-de-pagamento-300x27.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Formas-de-pagamento-300x27.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Formas-de-pagamento.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Formas-de-pagamento.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Img-1-300x220.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Img-1-300x220.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/05/Img-1.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\05\Img-1.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_13425.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_13425.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_174198298267d48d065d5fd.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_174198298267d48d065d5fd.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_174200068453164089-300x191.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_174200068453164089-300x191.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_174200068453164089.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_174200068453164089.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_174200888474005876.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_174200888474005876.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_22607-300x191.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_22607-300x191.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_22607.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_22607.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_35081-300x189.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_35081-300x189.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_35081.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_35081.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_42296-300x191.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_42296-300x191.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_42296.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_42296.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_48877-300x190.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_48877-300x190.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_48877.png
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_48877.png
+Content Type: image/png
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_71496-300x190.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_71496-300x190.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_71496.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_71496.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_87072-300x191.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_87072-300x191.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-content/uploads/2025/06/1744617_1_87072.webp
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-content\uploads\2025\06\1744617_1_87072.webp
+Content Type: image/webp
+
+Uri: https://drapaulafrederichi.com.br/wp-json/
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://drapaulafrederichi.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fdrapaulafrederichi.com.br%2Fworkshop-lipedema%2F
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://drapaulafrederichi.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fdrapaulafrederichi.com.br%2Fworkshop-lipedema%2F&format=xml
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://drapaulafrederichi.com.br/wp-json/wp/v2/pages/511
+File Name: E:\Clones\drapaulafrederichi.com.br\wp-json\wp\v2\pages\511
+Content Type: application/json
+
+Uri: https://drapaulafrederichi.com.br/xmlrpc.php?rsd
+File Name: E:\Clones\drapaulafrederichi.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|ABeeZee:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Sora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+File Name: E:\Clones\drapaulafrederichi.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkA.woff2
+File Name: E:\Clones\drapaulafrederichi.com.br\s\abeezee\v22\esDR31xSG-6AGleN2tWkkA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWklQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\abeezee\v22\esDR31xSG-6AGleN2tWklQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8G.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\abeezee\v22\esDT31xSG-6AGleN2tCUkp8G.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sora/v16/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+File Name: E:\Clones\drapaulafrederichi.com.br\s\sora\v16\xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=1037402024263253&ev=PageView&noscript=1
+File Name: E:\Clones\drapaulafrederichi.com.br\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=737911172223319&ev=PageView&noscript=1
+File Name: E:\Clones\drapaulafrederichi.com.br\tr
+Content Type: text/plain
+
